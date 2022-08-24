@@ -123,7 +123,7 @@ const vehicles = [
 ];
 
 // TODO: add your own access token
-mapboxgl.accessToken = '';
+mapboxgl.accessToken = 'REPLACE_WITH_YOUR_API_KEY';
 
 // This is the map instance
 let map = new mapboxgl.Map({

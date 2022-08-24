@@ -14,3 +14,8 @@ body {
   left: 0;
   padding: 10px;
 }
+
+.fa-bus{
+  font-size: 20px;
+  color: orangered;
+}
