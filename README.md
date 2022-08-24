@@ -51,10 +51,10 @@ Este proyecto se realizo durante la semana 9 del curso MIT-Fullstack developer, 
 
 ## :sparkles: Ejecucion ##
 
-:heavy_check_mark: Clonar el repositorio en el ambiente local
-:heavy_check_mark: Abrir la carpeta donde clonamos el repositorio
-:heavy_check_mark: Agregar tu API KEY en el archvio mapanimation.js
-:heavy_check_mark: Abrir en tu navegador de preferencia el archivo index HTML
+:heavy_check_mark: Clonar el repositorio en el ambiente local\
+:heavy_check_mark: Abrir la carpeta donde clonamos el repositorio\
+:heavy_check_mark: Agregar tu API KEY en el archvio mapanimation.js\
+:heavy_check_mark: Abrir en tu navegador de preferencia el archivo index HTML\
 :heavy_check_mark: Y Listo, comenzar a utilizar los controles disponibles en el GUI
 
 
